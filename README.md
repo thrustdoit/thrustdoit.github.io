@@ -55,3 +55,11 @@ Saving Report
 📘 Reflection Summary
 
 This project strengthened my understanding of how programming can support real-world community tasks. By designing a menu-based system with automated data handling, I learned the importance of clean logic, structured data, and user-friendly design. I also saw how these concepts relate to AI through automation, decision-making steps, and error prevention. Completing this project improved my ability to design, test, debug, and present meaningful software.
+### **Program Menu**
+![Main Menu](./screenshot_1.png)
+
+### **Adding a Student**
+![Add Student](./screenshot_2.png)
+
+### **Saving Report**
+![Report Output](./screenshot_3.png)
